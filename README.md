@@ -1,6 +1,9 @@
 # Final-Project
 Combustion Reaction of Hydrocarbons
 Directions for how to run the code:
+To test the code, save the Hydrocarbons.csv file into your Matlab folder.Then simply run the code. Then hit animate to run through the different hydrocarbons.
+Switch between the radio buttons to see the H2O and CO2. Use the pushbuttons to see what hydrocarbon is made by adding CH2 to methane.
+
 The file being read needs to be a .csv file saved in the Matlab folder. 
 The file I used, I made on excel and in the first column I put whatever number hydrocarbon I was on, so methane was one, ethane was 2, and so on. 
 The second column was the time from 0 to 60 minutes, so there are seven data points for each graph because it was a hydrocarbon burned to completion over and hour. 
